@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\COURSE_PROGRAMMING",
+    "\\COURSE_PROGRAMMING\\Aulas",
+    "\\COURSE_PROGRAMMING\\Aulas\\Aula_03",
+    "\\COURSE_PROGRAMMING\\Exercises\\Exercise_05"
   ],
-  "SelectedNode": "\\Exercises.sln",
+  "SelectedNode": "\\COURSE_PROGRAMMING\\Aulas\\Aula_03\\Main.cpp",
   "PreviewInSolutionExplorer": false
 }
