@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFC1079F-5E69-42D7-8367-DD27E9DBA235}|Exercise_05\\Exercise_05.vcxproj|C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Exercise_05\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFC1079F-5E69-42D7-8367-DD27E9DBA235}|Exercise_05\\Exercise_05.vcxproj|solutionrelative:Exercise_05\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202A5521-6046-4864-B0B5-9C710DDAF379}|Exercise_04\\Exercise_04.vcxproj|C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Exercise_04\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{202A5521-6046-4864-B0B5-9C710DDAF379}|Exercise_04\\Exercise_04.vcxproj|solutionrelative:Exercise_04\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84BA009B-9438-4966-9D3F-6ECBD08896F3}|Exercises.vcxproj|C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{84BA009B-9438-4966-9D3F-6ECBD08896F3}|Exercises.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDB8899F-F02D-45B7-B9C3-191AE0CF4702}|Exercise_02\\Exercise_02.vcxproj|C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Exercise_02\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FDB8899F-F02D-45B7-B9C3-191AE0CF4702}|Exercise_02\\Exercise_02.vcxproj|solutionrelative:Exercise_02\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{202A5521-6046-4864-B0B5-9C710DDAF379}|Exercise_04\\Exercise_04.vcxproj|C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Exercise_04\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{202A5521-6046-4864-B0B5-9C710DDAF379}|Exercise_04\\Exercise_04.vcxproj|solutionrelative:Exercise_04\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D32E9B5-4CE9-4F9A-994D-5E2241E28397}|Exercise_03\\Exercise_03.vcxproj|C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Exercise_03\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -36,6 +40,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Exercise_05\\Main.cpp",
+              "RelativeDocumentMoniker": "Exercise_05\\Main.cpp",
+              "ToolTip": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Exercise_05\\Main.cpp",
+              "RelativeToolTip": "Exercise_05\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-27T01:03:48.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Main.cpp",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Exercise_04\\Main.cpp",
               "RelativeDocumentMoniker": "Exercise_04\\Main.cpp",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Exercise_03\\Main.cpp",
               "RelativeDocumentMoniker": "Exercise_03\\Main.cpp",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Exercises\\Exercise_02\\Main.cpp",
               "RelativeDocumentMoniker": "Exercise_02\\Main.cpp",
@@ -80,8 +97,7 @@
               "RelativeToolTip": "Exercise_02\\Main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-11-22T01:46:39.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-11-22T01:46:39.563Z"
             }
           ]
         }

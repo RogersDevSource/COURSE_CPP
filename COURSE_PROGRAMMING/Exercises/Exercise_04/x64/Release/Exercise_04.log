@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Deve\C++\Project\COURSE_CPP\COURSE_PROGRAMMING\Exercises\Exercise_04\Main.cpp(11,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Exercise_04.vcxproj -> C:\Deve\C++\Project\COURSE_CPP\COURSE_PROGRAMMING\Exercises\x64\Release\Exercise_04.exe
