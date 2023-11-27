@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Aulas\\Aulas\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Aulas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79C06CC7-AB9F-4114-8157-1A49A2BD5CD3}|Aula_02\\Aula_02.vcxproj|C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Aulas\\Aula_02\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79C06CC7-AB9F-4114-8157-1A49A2BD5CD3}|Aula_02\\Aula_02.vcxproj|solutionrelative:Aula_02\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8B332D-5CEE-4B64-897D-98780488C5D5}|Aulas.vcxproj|C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Aulas\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D8B332D-5CEE-4B64-897D-98780488C5D5}|Aulas.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Aulas\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Aulas\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-27T00:21:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Aulas\\Aula_02\\Main.cpp",
+              "RelativeDocumentMoniker": "Aula_02\\Main.cpp",
+              "ToolTip": "C:\\Deve\\C\u002B\u002B\\Project\\COURSE_CPP\\COURSE_PROGRAMMING\\Aulas\\Aula_02\\Main.cpp",
+              "RelativeToolTip": "Aula_02\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-11-26T23:46:17.101Z",
+              "EditorCaption": ""
             }
           ]
         }
